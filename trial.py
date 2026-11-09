@@ -1,4 +1,7 @@
 print("Hello from phython World!")
 
-
-user = input()
+x = 4
+y = 5
+print(x+y)
+user = input("Enter your name: ")
+print("Hello, " + user + "! Welcome to the Python World!")
